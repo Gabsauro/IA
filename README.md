@@ -13,6 +13,7 @@ Utilizar o Gemini para solucionar um problema de forma eficiente e criativa.
 ----------------------------------------------------
 
 **Descrição do problema e contexto**
+
 Entrevista em profundidade é um dos métodos mais populares e efetivos de conhecer o universo em que o usuário está imerso. Ela é usada tanto na fase de descoberta quando queremos entender o contexto, quanto na fase de validação de hipóteses.
 
 Teresa Torres em seu livro Continous discovery defende que as oportunidades devem surgir na pesquisa constante e observação de usuários. E faz todo sentido, afinal para pensar na experiência do usuário é necessário ouvi-lo, não é mesmo? rsrs
