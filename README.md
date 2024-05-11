@@ -1,6 +1,6 @@
 ![image](https://github.com/Gabsauro/IA/assets/109446298/9e07490e-30e7-4754-b6df-886d6c417914)# PUX - Assistente de pesquisa em UX 
 ------------------------------------------------------
-Este projeto foi criado para a Imersão Ia, projeto criado pela Alura e pelo Google para ampliar o acesso ao conhecimento de técnicas de engenharia de prompt no Google AI studio.
+Este projeto foi criado para a Imersão Ia, criado pela Alura e pelo Google para ampliar o acesso ao conhecimento de técnicas de engenharia de prompt no Google AI studio.
 
 <img src="https://github.com/Gabsauro/IA/assets/109446298/e756d941-44a1-446e-b28c-ce2835a3dc12" width="25%" height="25%" text-align="center">
 
