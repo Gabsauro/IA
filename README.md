@@ -6,6 +6,8 @@ Este projeto foi criado para a Imersão Ia, criado pela Alura e pelo Google para
 
 <img src="https://github.com/Gabsauro/IA/assets/109446298/1095c522-7d58-4ee7-b236-e32ad35ae360" width="25%" height="25%" text-align="center">
 
+-------
+
 **Objetivo do desafio** 
 
 Utilizar o Gemini para solucionar um problema de forma eficiente e criativa.
